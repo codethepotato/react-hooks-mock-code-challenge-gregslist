@@ -1,6 +1,6 @@
 import React from "react";
 
-function ListingCard() {
+function ListingCard(props) {
   return (
     <li className="card">
       <div className="image">
